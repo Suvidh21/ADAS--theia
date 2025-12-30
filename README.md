@@ -9,6 +9,12 @@ The project is designed in a modular manner, starting from an Arduino-based auto
 
 The current repository contains the embedded control logic (Arduino) for the vehicle.
 Computer vision models and datasets are intentionally kept external to maintain a clean and professional repository.
+## Sample Detection Result
+
+<p align="center">
+  <img src="detection.png" alt="YOLOv8 ADAS Detection Output" width="700">
+</p>
+
 
 Objective of the Project
 
