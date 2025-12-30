@@ -12,7 +12,7 @@ Computer vision models and datasets are intentionally kept external to maintain 
 ## Sample Detection Result
 
 <p align="center">
-  <img src="detection.png" alt="YOLOv8 ADAS Detection Output" width="700">
+  <img src="./detection.png" alt="YOLOv8 ADAS Detection Output" width="700">
 </p>
 
 
